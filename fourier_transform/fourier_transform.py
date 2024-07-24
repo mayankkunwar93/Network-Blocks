@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""loss_functions.py
+"""fourier_transform.py
 
 Author: Mayank Kunwar
 Find Me: https://in.linkedin.com/in/mayankkunwar93
